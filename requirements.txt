@@ -1,0 +1,7 @@
+podcastfy
+ffmpeg-python
+openai
+python-dotenv
+pyyaml
+requests
+elevenlabs
